@@ -1,1 +1,2 @@
-# Loyham
+n = "hello word"
+print(n)
